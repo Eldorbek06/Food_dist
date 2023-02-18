@@ -347,7 +347,6 @@ a {
     width: 100%;
     height: 390px;
     position: absolute;
-    display: none;
 }
 
 .offer__slide img {
@@ -688,7 +687,7 @@ a {
 
 .modal__content-holder{
     max-width: 500px;
-    margin: 200px auto;
+    margin: 180px auto;
 }
 
 .modal__content {
